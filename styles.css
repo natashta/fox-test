@@ -130,7 +130,7 @@ body {
     .cards__content--chosen {opacity: 0.3;}
 
     .cards__subj {padding-bottom: 20px;}
-    .cards__title {line-height: 30px; padding-bottom: 30px;}
+    .cards__title {line-height: 26px; padding-bottom: 30px;}
 
     .cards__document, .cards__time {color: #b8b8b8; padding-bottom: 10px;}
 
